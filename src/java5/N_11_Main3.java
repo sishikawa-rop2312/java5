@@ -14,7 +14,6 @@ public class N_11_Main3 {
 //	要素2>10
 //	要素を２倍にしました。
 //	{6,10,20,}
-
 	public static void main(String[] args) {
 		System.out.print("要素数>");
 		int num = new Scanner(System.in).nextInt();
